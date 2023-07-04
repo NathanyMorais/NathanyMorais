@@ -1,4 +1,4 @@
-## Olá, sou Nathany 👋
+## Olá, sou a Nathany! 👋
 
 - 🔭 Iniciante de programação e aspirante a desenvolvedora fullstack
 - 🌱 Estudando Python, lógica de programação, algoritmo e estrutura de dados
