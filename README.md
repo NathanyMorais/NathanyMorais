@@ -1,6 +1,6 @@
 ## Olá, sou a Nathany! 👋
 
-- 🔭 Iniciante de programação e aspirante a desenvolvedora fullstack
+- 🔭 Iniciante de programação e aspirante a desenvolvedora web fullstack
 - 🌱 Estudando Python, lógica de programação, algoritmo e estrutura de dados
 - 👯 Contate-me no e-mail nathanyk.morais@gmail.com
 - 😄 Pronouns: ela/dela
