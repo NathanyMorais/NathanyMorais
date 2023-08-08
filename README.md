@@ -1,7 +1,7 @@
 ## Olá, sou a Nathany! 👋
 
 - 🔭 Iniciante de programação e aspirante a desenvolvedora web fullstack
-- 🌱 Estudando Python, lógica de programação, algoritmo e estrutura de dados
+- 🌱 Estudante da Generation Brasil para desenvolvedora web FullStack
 - 👯 Contate-me no e-mail nathanyk.morais@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Tenho uma cachorrinha chamada Kika! 🐶😍
