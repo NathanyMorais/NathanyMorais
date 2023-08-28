@@ -1,6 +1,6 @@
 ## Olá, sou a Nathany! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-- 🔭 Iniciante de programação: estudando Java, POO, lógica de programação, algoritmos e estrutura de dados
+- 🔭 Iniciante de programação: estudando Java, POO, Banco de dados e Spring
 - 🌱 Estudante da Generation Brasil para desenvolvedora web FullStack
 - 👯 Contate-me no e-mail nathanyk.morais@gmail.com
 - 😄 Pronouns: ela/dela
