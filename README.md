@@ -6,7 +6,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Tenho uma filha de 4 patas chamada Kika! 🐶🐾
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanyMorais&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanymorais&layout=donut&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NathanyMorais&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nathanymorais&layout=donut&show_icons=true&theme=dracula)
 
 <br>
 <!--🤔INTERESTTITLE-->
